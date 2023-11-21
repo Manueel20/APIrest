@@ -25,9 +25,9 @@
       "usuario": "tri.lopeh",
       "contraseña": "qwerty"
     }
-  ]}
+  ],
 
-{
+
 "Docentes": [
     {
       "id": 1,
@@ -54,5 +54,5 @@
       "usuario": "locorene",
       "contraseña": "21355"
     }
-  ]
-}
+  ]}
+
