@@ -1,103 +1,57 @@
 {
-  "ProfesorPato": [
+  "Alumnos": [
     {
       "id": 1,
-      "nombreUsuario": "Juan Pérez",
-      "edad": 20,
-      "curso": "Matemáticas"
+      "usuario": "ma.vargasp",
+      "contraseña": "qwerty"
     },
     {
       "id": 2,
-      "nombre": "María González",
-      "edad": 22,
-      "curso": "Matematicas"
+      "usuario": "cr.cayuan",
+      "contraseña": "qwerty"
     },
     {
       "id": 3,
-      "nombre": "Pedro Ramirez",
-      "edad": 19,
-      "curso": "Matematicas"
+      "usuario": "dr.sutro",
+      "contraseña": "qwerty"
     },
     {
       "id": 4,
-      "nombre": "Alexis Soto",
-      "edad": 19,
-      "curso": "Matematicas"
+      "usuario": "pi.hogro",
+      "contraseña": "qwerty"
     },
     {
       "id": 5,
-      "nombre": "Camila Ramirez",
-      "edad": 21,
-      "curso": "Matematicas"
-    },
-    {
-      "id": 6,
-      "nombre": "Cristian Rojas",
-      "edad": 22,
-      "curso": "Matematicas"
-    },
-    {
-      "id": 7,
-      "nombre": "Cristina Araneda",
-      "edad": 18,
-      "curso": "Matematicas"
-    },
-    {
-      "id": 8,
-      "nombre": "Sayen Aros",
-      "edad": 20,
-      "curso": "Matematicas"
+      "usuario": "tri.lopeh",
+      "contraseña": "qwerty"
     }
   ],
-  "ProfesorPinochet": [
+
+
+"Docentes": [
     {
       "id": 1,
-      "nombre": "Juan Pérez",
-      "edad": 20,
-      "curso": "Historia"
+      "usuario": "bizarro",
+      "contraseña": "123"
     },
     {
       "id": 2,
-      "nombre": "María González",
-      "edad": 22,
-      "curso": "Historia"
+      "usuario": "tulachi",
+      "contraseña": "123"
     },
     {
       "id": 3,
-      "nombre": "Pedro Ramirez",
-      "edad": 19,
-      "curso": "Historia"
+      "usuario": "mongolico",
+      "contraseña": "123"
     },
     {
       "id": 4,
-      "nombre": "Alexis Soto",
-      "edad": 19,
-      "curso": "Historia"
+      "usuario": "chupapi",
+      "contraseña": "123"
     },
     {
       "id": 5,
-      "nombre": "Camila Ramirez",
-      "edad": 21,
-      "curso": "Historia"
-    },
-    {
-      "id": 6,
-      "nombre": "Cristian Rojas",
-      "edad": 22,
-      "curso": "Historia"
-    },
-    {
-      "id": 7,
-      "nombre": "Cristina Araneda",
-      "edad": 18,
-      "curso": "Historia"
-    },
-    {
-      "id": 8,
-      "nombre": "Sayen Aros",
-      "edad": 20,
-      "curso": "Historia"
+      "usuario": "locorene",
+      "contraseña": "21355"
     }
-  ]
-}
-
+  ]}
