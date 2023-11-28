@@ -1,57 +1,73 @@
 {
-  "Alumnos": [
+  "Usuarios": [
+
     {
       "id": 1,
-      "usuario": "ma.vargasp",
-      "contraseña": "qwerty"
+      "nombre": "Patricio",
+      "apellido": "Yañez",
+      "username": "patricio",
+      "correo": "pa.yaneza@profesor.duoc.cl",
+      "password": "profe123",
+      "tipo": "Profesor"
     },
     {
       "id": 2,
-      "usuario": "cr.cayuan",
-      "contraseña": "qwerty"
+      "nombre": "Niguel",
+      "apellido": "Bose",
+      "username": "juanramos",
+      "correo": "miguelo@profesor.duoc.cl",
+      "password": "miguel",
+      "tipo": "Profesor"
     },
     {
       "id": 3,
-      "usuario": "dr.sutro",
-      "contraseña": "qwerty"
+      "nombre": "Pedro",
+      "apellido": "Talmor",
+      "username": "pepetapia",
+      "correo": "pepetapiaelbicis@duocuc.cl",
+      "password": "algo123",
+      "tipo": "Estudiante"
+
     },
     {
       "id": 4,
-      "usuario": "pi.hogro",
-      "contraseña": "qwerty"
-    },
-    {
-      "id": 5,
-      "usuario": "tri.lopeh",
-      "contraseña": "qwerty"
+      "nombre": "Mac",
+      "apellido": "Miller",
+      "username": "elpapu",
+      "correo": "maccapo@duocuc.cl",
+      "password": "algo123",
+      "tipo": "Estudiante"
+
     }
   ],
-
-
-"Docentes": [
+  "Asignaturas": [
     {
       "id": 1,
-      "usuario": "bizarro",
-      "contraseña": "123"
+      "Sigla": "PGY4121",
+      "Nombre": "Programación de aplicaciones móviles",
+      "Secciones": ["001D","002D","003D"],
+      "Profesor": 1
     },
     {
       "id": 2,
-      "usuario": "tulachi",
-      "contraseña": "123"
+      "Sigla": "PGY2121",
+      "Nombre": "Desarrollo software escritorio",
+      "Secciones": ["001D","002D","003D","004D"],
+      "Profesor": 1
     },
     {
       "id": 3,
-      "usuario": "mongolico",
-      "contraseña": "123"
+      "Sigla": "CSY41111",
+      "Nombre": "Calidad de Software",
+      "Secciones": ["001D","002D","003D"],
+      "Profesor": 2
     },
     {
       "id": 4,
-      "usuario": "chupapi",
-      "contraseña": "123"
-    },
-    {
-      "id": 5,
-      "usuario": "locorene",
-      "contraseña": "21355"
+      "Sigla": "PRY2111",
+      "Nombre": "Diseño de Prototipos",
+      "Secciones": ["001D","002D","003D"],
+      "Profesor": 2
     }
-  ]}
+  ]
+}
